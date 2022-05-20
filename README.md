@@ -5,7 +5,7 @@
 </div>
 
 ## [Drive link](https://drive.google.com/drive/folders/1obMP-1NJFEorizMiyhBoM4gJazG9qPmV?usp=sharing) (In case report is not available)
-## [Gist](https://gist.github.com/sagaralok/8da2562604b9768807e8e89565063f7c)
+## [Gist](https://gist.github.com/sagaralok/8da2562604b9768807e8e89565063f7c) link
 
 ## Table of Contents
 * [Project Structure](#project-structure)
